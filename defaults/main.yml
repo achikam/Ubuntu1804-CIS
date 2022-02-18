@@ -26,8 +26,8 @@ ubuntu1804cis_rule_1_1_1_2: true
 ubuntu1804cis_rule_1_1_1_3: true
 ubuntu1804cis_rule_1_1_1_4: true
 ubuntu1804cis_rule_1_1_1_5: true
-ubuntu1804cis_rule_1_1_1_6: false
-ubuntu1804cis_rule_1_1_1_7: true
+ubuntu1804cis_rule_1_1_1_6: true
+ubuntu1804cis_rule_1_1_1_7: false
 ubuntu1804cis_rule_1_1_1_8: false
 ubuntu1804cis_rule_1_1_2: true
 ubuntu1804cis_rule_1_1_3: true
@@ -56,8 +56,8 @@ ubuntu1804cis_rule_1_2_2: true
 ubuntu1804cis_rule_1_3_1: true
 ubuntu1804cis_rule_1_3_2: true
 ubuntu1804cis_rule_1_3_3: true
-ubuntu1804cis_rule_1_4_1: true
-ubuntu1804cis_rule_1_4_2: true
+ubuntu1804cis_rule_1_4_1: false
+ubuntu1804cis_rule_1_4_2: false
 ubuntu1804cis_rule_1_5_1: true
 ubuntu1804cis_rule_1_5_2: true
 ubuntu1804cis_rule_1_5_2_disable_password: true
@@ -71,10 +71,10 @@ ubuntu1804cis_rule_1_7_1_1: true
 ubuntu1804cis_rule_1_7_1_2: true
 ubuntu1804cis_rule_1_7_1_3: true
 ubuntu1804cis_rule_1_7_1_4: true
-ubuntu1804cis_rule_1_8_1_1: true
-ubuntu1804cis_rule_1_8_1_2: true
-ubuntu1804cis_rule_1_8_1_3: true
-ubuntu1804cis_rule_1_8_1_4: true
+ubuntu1804cis_rule_1_8_1_1: false
+ubuntu1804cis_rule_1_8_1_2: false
+ubuntu1804cis_rule_1_8_1_3: false
+ubuntu1804cis_rule_1_8_1_4: false
 ubuntu1804cis_rule_1_8_1_5: true
 ubuntu1804cis_rule_1_8_1_6: true
 ubuntu1804cis_rule_1_8_2: true
